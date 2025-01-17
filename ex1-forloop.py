@@ -12,3 +12,5 @@ print("New Added Line from me :) from git terminal")
 print("Added 1st line from techteam1 on GitHub")
 
 print("Added 2nd line from techteam1 on GitHub")
+B = 100
+C = 400
